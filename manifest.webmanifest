@@ -1,0 +1,18 @@
+{
+  "short_name": "ImgViwer",
+  "name": "Image Viwer",
+  "description": "A simple and stupid webpage to display an image.",
+  "categories": [ "productivity" ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "16x16 32x32 48x48 64x64 72x72 96x96 128x128 256x256 512x512"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "black",
+  "display": "fullscreen",
+  "theme_color": "black"
+}
